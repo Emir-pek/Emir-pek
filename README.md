@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29938600/README.md)
-<div align="center">
-
 # Hi there, I'm Emir 👋
 
 <a href="https://git.io/typing-svg">
