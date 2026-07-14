@@ -44,27 +44,10 @@
 
 ---
 
-### 📌 Featured Projects
-
-<!-- Replace the rows below with your own repos: [Repo Name](link) | short description | tech used -->
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name](#) | One-line description of what it does and why it's interesting | e.g. JavaScript, Node.js |
-| [Project Name](#) | One-line description | e.g. Python |
-| [Project Name](#) | One-line description | e.g. C# |
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Emir-pek&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir-pek&layout=compact&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir-pek&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Emir-pek/Emir-pek/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
 ---
